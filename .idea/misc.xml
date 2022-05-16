@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/dkock/AndroidStudioProjects/DiceRoller/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/dkock/AndroidStudioProjects/DiceRoller/app/src/main/res/layout/activity_edit_view.xml" value="0.2701722574796011" />
+        <entry key="..\:/Users/dkock/AndroidStudioProjects/DiceRoller/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/dkock/AndroidStudioProjects/DiceRoller/app/src/main/res/layout/activity_main2.xml" value="0.30520833333333336" />
+        <entry key="..\:/Users/dkock/AndroidStudioProjects/DiceRoller/app/src/main/res/layout/activity_main3.xml" value="0.25" />
+        <entry key="..\:/Users/dkock/AndroidStudioProjects/DiceRoller/app/src/main/res/layout/activity_main4.xml" value="0.2701722574796011" />
       </map>
     </option>
   </component>
